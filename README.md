@@ -1,2 +1,2 @@
 # Semester2-Assignments
-All assignments aredone in Python.
+All assignments are done in Python.
